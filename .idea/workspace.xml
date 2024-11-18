@@ -33,11 +33,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Cadenas.executor": "Run",
     "Application.ConcatenacionCadenas.executor": "Run",
     "Application.Constantes.executor": "Run",
     "Application.DetalleLibro.executor": "Run",
     "Application.DetallePersona.executor": "Run",
     "Application.HolaMundo.executor": "Run",
+    "Application.IndicesCadena.executor": "Run",
     "Application.Presentate.executor": "Run",
     "Application.ReglasNombresVariables.executor": "Run",
     "Application.ReservaHotel.executor": "Run",
@@ -53,7 +55,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReservaHotel">
+  <component name="RunManager" selected="Application.IndicesCadena">
+    <configuration name="Cadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cadenas" />
+      <module name="Introduccion a Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConcatenacionCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenacionCadenas" />
       <module name="Introduccion a Java" />
@@ -68,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IndicesCadena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndicesCadena" />
+      <module name="Introduccion a Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReservaHotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReservaHotel" />
       <module name="Introduccion a Java" />
@@ -75,27 +91,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tiendaEnLinea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tiendaEnLinea" />
-      <module name="Introduccion a Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tipoVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tipoVar" />
-      <module name="Introduccion a Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IndicesCadena" />
+        <item itemvalue="Application.Cadenas" />
         <item itemvalue="Application.ReservaHotel" />
         <item itemvalue="Application.Constantes" />
         <item itemvalue="Application.ConcatenacionCadenas" />
-        <item itemvalue="Application.tipoVar" />
-        <item itemvalue="Application.tiendaEnLinea" />
       </list>
     </recent_temporary>
   </component>
