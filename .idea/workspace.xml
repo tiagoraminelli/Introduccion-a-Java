@@ -33,11 +33,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConcatenacionCadenas.executor": "Run",
+    "Application.Constantes.executor": "Run",
     "Application.DetalleLibro.executor": "Run",
     "Application.DetallePersona.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.Presentate.executor": "Run",
+    "Application.ReglasNombresVariables.executor": "Run",
+    "Application.ReservaHotel.executor": "Run",
     "Application.TiposDatos.executor": "Run",
+    "Application.tiendaEnLinea.executor": "Run",
+    "Application.tipoVar.executor": "Run",
     "Application.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -47,37 +53,37 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TiposDatos">
-    <configuration name="DetalleLibro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DetalleLibro" />
+  <component name="RunManager" selected="Application.ReservaHotel">
+    <configuration name="ConcatenacionCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenacionCadenas" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetallePersona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DetallePersona" />
+    <configuration name="Constantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Constantes" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Presentate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Presentate" />
+    <configuration name="ReservaHotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReservaHotel" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TiposDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TiposDatos" />
+    <configuration name="tiendaEnLinea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tiendaEnLinea" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variables" />
+    <configuration name="tipoVar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tipoVar" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TiposDatos" />
-        <item itemvalue="Application.DetallePersona" />
-        <item itemvalue="Application.DetalleLibro" />
-        <item itemvalue="Application.variables" />
-        <item itemvalue="Application.Presentate" />
+        <item itemvalue="Application.ReservaHotel" />
+        <item itemvalue="Application.Constantes" />
+        <item itemvalue="Application.ConcatenacionCadenas" />
+        <item itemvalue="Application.tipoVar" />
+        <item itemvalue="Application.tiendaEnLinea" />
       </list>
     </recent_temporary>
   </component>
