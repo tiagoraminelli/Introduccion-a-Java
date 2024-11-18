@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b6449f-a65d-4e94-99bd-bfdc816db713" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +33,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DetalleLibro.executor": "Run",
+    "Application.DetallePersona.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.Presentate.executor": "Run",
+    "Application.TiposDatos.executor": "Run",
     "Application.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -46,9 +47,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.variables">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+  <component name="RunManager" selected="Application.TiposDatos">
+    <configuration name="DetalleLibro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DetalleLibro" />
+      <module name="Introduccion a Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DetallePersona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DetallePersona" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +64,13 @@
     </configuration>
     <configuration name="Presentate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Presentate" />
+      <module name="Introduccion a Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TiposDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TiposDatos" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,9 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TiposDatos" />
+        <item itemvalue="Application.DetallePersona" />
+        <item itemvalue="Application.DetalleLibro" />
         <item itemvalue="Application.variables" />
         <item itemvalue="Application.Presentate" />
-        <item itemvalue="Application.HolaMundo" />
       </list>
     </recent_temporary>
   </component>
