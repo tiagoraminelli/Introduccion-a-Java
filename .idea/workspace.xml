@@ -22,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ozw6wYsVOfgNHebcnADt1K8fZ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,12 +34,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Cadenas.executor": "Run",
+    "Application.CaracteresEspeciales.executor": "Run",
+    "Application.ComparacionDeCadenas.executor": "Run",
     "Application.ConcatenacionCadenas.executor": "Run",
+    "Application.ConcatenarCadenas.executor": "Run",
     "Application.Constantes.executor": "Run",
     "Application.DetalleLibro.executor": "Run",
     "Application.DetallePersona.executor": "Run",
+    "Application.GeneradorEmail.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.IndicesCadena.executor": "Run",
+    "Application.Inmutabilidad.executor": "Run",
+    "Application.ManejoSubCadenas.executor": "Run",
+    "Application.MetodosDeCadena.executor": "Run",
     "Application.Presentate.executor": "Run",
     "Application.ReglasNombresVariables.executor": "Run",
     "Application.ReservaHotel.executor": "Run",
@@ -55,37 +62,37 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IndicesCadena">
-    <configuration name="Cadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cadenas" />
+  <component name="RunManager" selected="Application.GeneradorEmail">
+    <configuration name="CaracteresEspeciales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaracteresEspeciales" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatenacionCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcatenacionCadenas" />
+    <configuration name="ConcatenarCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenarCadenas" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Constantes" />
+    <configuration name="GeneradorEmail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneradorEmail" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndicesCadena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndicesCadena" />
+    <configuration name="ManejoSubCadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManejoSubCadenas" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReservaHotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReservaHotel" />
+    <configuration name="MetodosDeCadena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodosDeCadena" />
       <module name="Introduccion a Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IndicesCadena" />
-        <item itemvalue="Application.Cadenas" />
-        <item itemvalue="Application.ReservaHotel" />
-        <item itemvalue="Application.Constantes" />
-        <item itemvalue="Application.ConcatenacionCadenas" />
+        <item itemvalue="Application.GeneradorEmail" />
+        <item itemvalue="Application.CaracteresEspeciales" />
+        <item itemvalue="Application.ConcatenarCadenas" />
+        <item itemvalue="Application.ManejoSubCadenas" />
+        <item itemvalue="Application.MetodosDeCadena" />
       </list>
     </recent_temporary>
   </component>
